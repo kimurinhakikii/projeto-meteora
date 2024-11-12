@@ -1,4 +1,4 @@
-Para o projeto "Meteora" no GitHub, você pode criar um README descritivo e uma publicação inicial. Aqui está um exemplo de README:
+
 
 ---
 
